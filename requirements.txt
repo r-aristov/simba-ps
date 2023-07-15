@@ -1,0 +1,5 @@
+"numpy"
+"numba>=0.55.1"
+"pillow"
+"pygame"
+"cuda-python"
